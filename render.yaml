@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: i-eat-little-babies
+    env: docker
+    plan: free
