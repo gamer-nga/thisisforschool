@@ -4,7 +4,7 @@ RUN apk add --no-cache git
 
 RUN git clone https://github.com/gamer-nga/Interstellar-i-eat-kids.git
 
-WORKDIR /<the forked repository name>
+WORKDIR /Interstellar-i-eat-kids
 
 RUN npm install
 
